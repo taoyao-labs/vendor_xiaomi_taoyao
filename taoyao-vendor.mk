@@ -1118,6 +1118,9 @@ PRODUCT_PACKAGES += \
     libwapi_cert \
     libwms \
     libwqe \
+    libqcbassboost \
+    libqcreverb \
+    libqcvirt \
     libwvhidl \
     libxmi_hdr_bokeh \
     libxmi_hdr_checker \
