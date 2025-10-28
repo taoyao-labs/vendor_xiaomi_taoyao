@@ -829,6 +829,7 @@ PRODUCT_PACKAGES += \
     camera.qcom \
     camera.xiaomi \
     com.qti.chi.override \
+    consumerir.lahaina \
     displayfeature.default \
     fingerprint.goodix_fod.default \
     memtrack.default \
